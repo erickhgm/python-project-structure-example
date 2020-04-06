@@ -1,0 +1,11 @@
+.pytest_cache
+.vscode
+htmlcov
+
+**/__pycache__
+
+venv
+.coverage
+coverage.xml
+xunit.xml
+pylint.txt
